@@ -14,7 +14,11 @@
   flex-wrap: wrap-reverse;
 }
 /* 3. exercice-baseline-3 */
-
+.exercice-baseline-3 .container {
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
 /* 4. exercice-flow-1 */
 
 /* 5. exercice-flow-2 */
